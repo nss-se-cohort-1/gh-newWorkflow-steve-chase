@@ -5,6 +5,7 @@ package gh.newWorkflow.sw;
 
 public class App {
     public String getGreeting() {
+        System.out.println("My name is chase fowler");
         return "Hello World!";
     }
 
